@@ -8,3 +8,10 @@ This is a coaching center where student can learn their academic studies
 - Student can ask question to their teacher
 - Student can take challenges for a particular subject 
 - Technologies 
+
+## Roles 
+We have four main roles 
+1. Admin 
+2. Teacher
+3. Student
+4. Guardian 
